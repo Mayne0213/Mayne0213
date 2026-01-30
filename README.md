@@ -1,20 +1,17 @@
 ### **👋 Welcome to my page!**
 ---
-Hi! I'm a backend developer building resilient systems — from Spring Boot APIs with Kafka to on-premise K3s clusters with GitOps.
+Hi! I'm a developer building resilient systems — from scalable APIs to on-premise K3s clusters with GitOps.
 I design for high availability, ship with observability baked in, and keep security tight from day one. 🚀
 
 
 ### 🖥️ On the back side,
-With Spring Boot, I optimize large-scale data processing using Batch and handle async workflows with Kafka message queues.
+I build scalable APIs with FastAPI and Node.js, focusing on clean architecture and efficient data processing.
 
 ### ☁️ On the infra & data side,
 I operate K3s clusters with GitOps (ArgoCD), designed with HA architectures. and I'm running full observability stacks — Prometheus, Grafana, Loki, Tempo — to catch issues before they escalate.
 
 ### 🎨 On the front side,
 I structure frontends using Feature-Sliced Design (FSD) with React + TypeScript, separating concerns into entities, features, and widgets layers. I manage state with Zustand and build scalable UI systems with Tailwind CSS and shadcn/ui.
-
-### 💚 Off the clock,
-I’m into diving (free & scuba), swimming, band music and festivals — plus baseball, books, travel — and volunteer coding whenever I can. I like building things that make life feel a little more beautiful. ✨
 
 ### **💪 Skills**
 ---
@@ -26,9 +23,7 @@ I’m into diving (free & scuba), swimming, band music and festivals — plus ba
 
 #### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
@@ -45,7 +40,7 @@ I’m into diving (free & scuba), swimming, band music and festivals — plus ba
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
 
 #### Observability
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
