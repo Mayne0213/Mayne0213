@@ -1,0 +1,133 @@
+{
+  "header": {
+    "home": "Startseite",
+    "about": "Über mich",
+    "skills": "Fähigkeiten",
+    "projects": "Projekte",
+    "monitoring": "Überwachung",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Hallo, zusammen!",
+    "description": "Ich bin Minjo, ein Junior-Entwickler."
+  },
+  "about": {
+    "title": "Über mich",
+    "description": "Leidenschaftlicher Full-Stack-Entwickler mit Expertise in der Entwicklung skalierbarer Webanwendungen und Cloud-Infrastruktur",
+    "personalInfo": "Persönliche Informationen",
+    "whoIAm": "Wer ich bin",
+    "name": "Name",
+    "education": "Ausbildung",
+    "birthday": "Geburtstag",
+    "location": "Standort",
+    "github": "Github",
+    "email": "E-Mail",
+    "bio1": "Ich bin ein Backend-Entwickler, der robuste Systeme baut — von Spring Boot APIs mit Kafka bis hin zu On-Premise K3s-Clustern mit GitOps. Ich entwerfe für Hochverfügbarkeit, liefere mit eingebauter Observability und halte die Sicherheit von Anfang an streng.",
+    "bio2": "Im Backend optimiere ich die Verarbeitung großer Datenmengen mit Spring Batch und verwalte asynchrone Workflows mit Kafka-Nachrichtenwarteschlangen. Für die Infrastruktur betreibe ich K3s-Cluster mit GitOps (ArgoCD), entworfen mit HA-Architekturen, und führe vollständige Observability-Stacks — Prometheus, Grafana, Loki, Tempo — um Probleme frühzeitig zu erkennen.",
+    "bio3": "Im Frontend strukturiere ich Anwendungen mit Feature-Sliced Design (FSD) mit React + TypeScript und trenne Zuständigkeiten in Entities-, Features- und Widgets-Schichten. Ich verwalte den State mit Zustand und baue skalierbare UI-Systeme mit Tailwind CSS und shadcn/ui.",
+    "bio4": "In meiner Freizeit tauche ich gerne (Freitauchen & Gerätetauchen), schwimme, höre Bandmusik und besuche Festivals — dazu Baseball, Bücher, Reisen — und programmiere ehrenamtlich, wann immer ich kann. Ich baue gerne Dinge, die das Leben ein wenig schöner machen."
+  },
+  "skills": {
+    "title": "Fähigkeiten & Expertise",
+    "backendApis": {
+      "title": "Backend & APIs",
+      "description": "Entwicklung robuster serverseitiger Anwendungen und RESTful APIs"
+    },
+    "infra": {
+      "title": "Infrastruktur",
+      "description": "Verwaltung von Container-Orchestrierung und Infrastruktur"
+    },
+    "dataMessaging": {
+      "title": "Daten & Messaging",
+      "description": "Handhabung von Datenspeicherung, Caching und asynchronen Nachrichtenwarteschlangen"
+    },
+    "cloud": {
+      "title": "Cloud",
+      "description": "Bereitstellung und Verwaltung von Anwendungen auf Cloud-Plattformen"
+    },
+    "observability": {
+      "title": "Observability",
+      "description": "Implementierung von Monitoring-, Logging- und Tracing-Systemen"
+    },
+    "cicd": {
+      "title": "CI/CD & Release",
+      "description": "Automatisierung von Build-, Test- und Deployment-Pipelines"
+    },
+    "frontend": {
+      "title": "Frontend",
+      "description": "Erstellen responsiver und interaktiver Benutzeroberflächen mit modernen Frameworks"
+    },
+    "test": {
+      "title": "Test",
+      "description": "Schreiben und Ausführen automatisierter Tests zur Qualitätssicherung"
+    },
+    "security": {
+      "title": "Sicherheit",
+      "description": "Absicherung der Infrastruktur mit Secrets-Management und Runtime-Schutz"
+    }
+  },
+  "projects": {
+    "title": "Ausgewählte Projekte",
+    "description": "Einige meiner jüngsten Arbeiten und Nebenprojekte",
+    "joossam": {
+      "title": "Joossam English",
+      "description": "Englisch-Lernplattform für koreanische Studenten"
+    },
+    "jotion": {
+      "title": "Jotion",
+      "description": "Notion-ähnliche Notizen-Anwendung"
+    },
+    "youniClassic": {
+      "title": "Youni Classic",
+      "description": "Kirchengemeinde-Verwaltungssystem"
+    },
+    "jaejadle": {
+      "title": "Jaejadle Church",
+      "description": "Kirchen-Website mit Veranstaltungsverwaltung"
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "description": "Persönliche Portfolio-Website mit Kubernetes-Bereitstellung"
+    },
+    "todoList": {
+      "title": "[Yonsei Seminar] Todo",
+      "description": "Bildungs-Todo-Listen-Anwendung für den Unterricht"
+    },
+    "jovies": {
+      "title": "Jovies",
+      "description": "Film-Entdeckungs- und Tracking-Anwendung"
+    },
+    "k3sHome": {
+      "title": "K3S Home Cluster",
+      "description": "On-premise Kubernetes-Infrastruktur mit GitOps und Observability"
+    },
+    "poolc": {
+      "title": "Yonsei PoolC Web",
+      "description": "Offizielle Website des PoolC Programmierclubs"
+    }
+  },
+  "monitoring": {
+    "title": "Überwachung",
+    "description": "Echtzeit-Kubernetes-Cluster-Überwachung mit Grafana-Dashboards",
+    "overview": "Übersicht",
+    "resources": "Ressourcen",
+    "kubernetes": "Kubernetes",
+    "network": "Netzwerk"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "getInTouch": "Kontakt aufnehmen",
+    "description": "Haben Sie ein Projekt im Kopf oder möchten Sie zusammenarbeiten? Kontaktieren Sie mich gerne über einen der unten stehenden Kanäle.",
+    "sendMessage": "Nachricht senden",
+    "name": "Name",
+    "namePlaceholder": "Max Mustermann",
+    "subject": "Betreff",
+    "subjectPlaceholder": "Projektanfrage",
+    "message": "Nachricht",
+    "messagePlaceholder": "Erzählen Sie mir von Ihrem Projekt...",
+    "send": "Nachricht senden"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten"
+  }
+}
