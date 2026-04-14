@@ -24,6 +24,14 @@
 <a href='https://grafana.com/'><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
 </p>
 
+<h3>📜 Certifications</h3>
+
+<p>
+<img src="https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator" />
+<img src="https://img.shields.io/badge/OPIc_AL-FF6B35?style=for-the-badge&logoColor=white" alt="OPIc AL" />
+<img src="https://img.shields.io/badge/Goethe_B2-00965E?style=for-the-badge&logoColor=white" alt="Goethe B2" />
+</p>
+
 <br/>
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=bluemayne)](https://solved.ac/profile/bluemayne)
