@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h2>This is minjo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="32" height="32" /></h2>
+<p><font size="6"><b>This is minjo</b></font> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="32" height="32" align="center" /></p>
 
 <p>Building resilient systems from backend APIs to on-prem Kubernetes clusters.</p>
 
@@ -25,7 +25,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mayne0213&langs_count=6&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mayne0213)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=bluemayne)](https://solved.ac/profile/bluemayne)
 
 </div>
 
