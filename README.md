@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h3>Hi there! I'm Minjo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist.png" alt="Man Technologist" width="28" height="28" /></h3>
+<h3>This is minjo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="28" height="28" /></h3>
 
 <p>Building resilient systems from backend APIs to on-prem Kubernetes clusters.</p>
 
@@ -24,6 +24,10 @@
 <a href='https://www.terraform.io/'><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
 <a href='https://grafana.com/'><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
 </p>
+
+<br/>
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mayne0213&langs_count=6&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mayne0213)
 
 </div>
 
