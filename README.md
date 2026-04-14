@@ -13,6 +13,7 @@
 <a href='https://spring.io/projects/spring-boot'><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /></a>
 <a href='https://nodejs.org/'><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
 <a href='https://fastapi.tiangolo.com/'><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+<a href='https://www.prisma.io/'><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
 <a href='https://langchain-ai.github.io/langgraph/'><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /></a>
 </p>
 
@@ -21,14 +22,6 @@
 <a href='https://argo-cd.readthedocs.io/'><img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" /></a>
 <a href='https://www.terraform.io/'><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
 <a href='https://grafana.com/'><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
-</p>
-
-<h3>📜 Certifications</h3>
-
-<p>
-<img src="https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator" />
-🇺🇸 <img src="https://img.shields.io/badge/OPIc_AL-FF6B35?style=for-the-badge&logoColor=white" alt="OPIc AL" />
-🇩🇪 <img src="https://img.shields.io/badge/Goethe_B2-00965E?style=for-the-badge&logoColor=white" alt="Goethe B2" />
 </p>
 
 <br/>
