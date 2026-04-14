@@ -27,8 +27,8 @@
 
 <p>
 <img src="https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator" />
-<img src="https://img.shields.io/badge/OPIc_AL-FF6B35?style=for-the-badge&logoColor=white" alt="OPIc AL" />
-<img src="https://img.shields.io/badge/Goethe_B2-00965E?style=for-the-badge&logoColor=white" alt="Goethe B2" />
+<img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8_OPIc_AL-FF6B35?style=for-the-badge&logoColor=white" alt="OPIc AL" />
+<img src="https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA_Goethe_B2-00965E?style=for-the-badge&logoColor=white" alt="Goethe B2" />
 </p>
 
 <br/>
