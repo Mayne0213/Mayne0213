@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<h3>This is minjo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="28" height="28" /></h3>
+<h2>This is minjo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="32" height="32" /></h2>
 
 <p>Building resilient systems from backend APIs to on-prem Kubernetes clusters.</p>
 
-<h4>🛠️ Stack</h4>
+<h3>🛠️ Stack</h3>
 
 <p>
 <a href='https://nextjs.org/'><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
