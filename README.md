@@ -6,8 +6,6 @@
 
 <p>Building resilient systems from backend APIs to on-prem Kubernetes clusters.</p>
 
-<br/>
-
 <h4>🛠️ Stack</h4>
 
 <p>
