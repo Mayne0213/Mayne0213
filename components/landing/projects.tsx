@@ -41,7 +41,6 @@ const projects: Project[] = [
     imageSrc: joossamHome,
     prodUrl: 'https://joossameng.com',
     demoUrl: 'https://dev.joossameng.com',
-    githubUrl: 'https://github0213.com/Mayne0213/joossam',
     docusaurusUrl: '#',
   },
   {
@@ -49,7 +48,6 @@ const projects: Project[] = [
     isCore: true,
     tags: ['K8S', 'ArgoCD', 'Grafana', 'Vault', 'Tekton', 'Authelia'],
     imageSrc: k3sHome,
-    githubUrl: 'https://github0213.com/Mayne0213/K3S-HOME',
     docusaurusUrl: '#',
   },
   {
@@ -59,7 +57,6 @@ const projects: Project[] = [
     imageSrc: poolcHome,
     prodUrl: 'https://poolc.org',
     demoUrl: 'https://dev.poolc.kro.kr',
-    githubUrl: 'https://github0213.com/Mayne0213/PoolC',
     docusaurusUrl: '#',
   },
   {
@@ -69,7 +66,6 @@ const projects: Project[] = [
     imageSrc: jaejadleHome,
     prodUrl: 'https://disciples-church.com',
     demoUrl: 'https://dev.jaejadle.kro.kr/login',
-    githubUrl: 'https://github0213.com/Mayne0213/jaejadle',
     docusaurusUrl: '#',
   },
   {
@@ -78,7 +74,6 @@ const projects: Project[] = [
     tags: ['Node.js', 'Prisma', 'Next.js', 'PostgreSQL', 'K8S'],
     imageSrc: jotionHome,
     demoUrl:'https://jotion0213.kro.kr',
-    githubUrl: 'https://github0213.com/Mayne0213/jotion',
     docusaurusUrl: '#',
   },
   {
@@ -87,7 +82,6 @@ const projects: Project[] = [
     tags: ['Next.js', 'TypeScript', 'K8S'],
     imageSrc: portfolioHome,
     prodUrl: 'https://minjo0213.kro.kr',
-    githubUrl: 'https://github0213.com/Mayne0213/portfolio',
     docusaurusUrl: '#',
   },
   {
@@ -96,7 +90,6 @@ const projects: Project[] = [
     tags: ['Prisma', 'Next.js', 'TypeScript', 'React', 'Tailwind CSS'],
     imageSrc: todoListHome,
     prodUrl: 'https://todo0213.kro.kr',
-    githubUrl: 'https://github0213.com/Mayne0213/todo',
     docusaurusUrl: '#',
     notionUrl: '#',
   },
@@ -106,7 +99,6 @@ const projects: Project[] = [
     tags: ['Next.js', 'TypeScript', 'TMDB API', 'Tailwind CSS'],
     imageSrc: joviesHome,
     prodUrl: 'https://jovies.kro.kr',
-    githubUrl: 'https://github0213.com/Mayne0213/jovies',
   },
 ];
 
@@ -317,4 +309,3 @@ const ProjectCard = ({ title, description, tags, imageSrc, prodUrl, demoUrl, git
 
 
 export default Projects;
-

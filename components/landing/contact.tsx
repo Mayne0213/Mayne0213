@@ -48,9 +48,9 @@ ${formData.message}`;
     },
     {
       icon: SiGithub,
-      label: 'Gitea(Self Hosted Github)',
+      label: 'GitHub',
       value: '@Mayne0213',
-      link: 'https://github0213.com/Mayne0213',
+      link: 'https://github.com/Mayne0213',
     },
   ];
 

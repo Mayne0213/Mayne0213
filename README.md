@@ -32,10 +32,6 @@
 <img src="https://img.shields.io/badge/Goethe_B2-00965E?style=for-the-badge&logoColor=white" alt="Goethe B2" />
 </p>
 
-<br/>
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=bluemayne)](https://solved.ac/profile/bluemayne)
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F093FB,50:764BA2,100:667EEA&height=100&section=footer" />

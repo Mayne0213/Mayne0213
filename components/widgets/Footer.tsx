@@ -6,7 +6,7 @@ const SOCIAL_MEDIA = [
   {
     name: "GitHub",
     icon: Github,
-    href: "https://github0213.com/Mayne0213",
+    href: "https://github.com/Mayne0213",
   },
   {
     name: "Email",
