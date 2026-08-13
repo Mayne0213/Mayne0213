@@ -6,9 +6,15 @@ import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 
+type Locale = (typeof routing.locales)[number];
+
+function isLocale(locale: string): locale is Locale {
+  return routing.locales.includes(locale as Locale);
+}
+
 export const metadata: Metadata = {
-  title: "Portfolio - Full Stack Developer",
-  description: "Creating beautiful and functional web experiences with modern technologies",
+  title: "Minjo Kim | Backend Developer",
+  description: "Spring Boot backend developer portfolio",
 };
 
 export function generateStaticParams() {
@@ -24,7 +30,7 @@ export default async function LocaleLayout({
 }) {
   const { locale } = await params;
 
-  if (!routing.locales.includes(locale as any)) {
+  if (!isLocale(locale)) {
     notFound();
   }
 
