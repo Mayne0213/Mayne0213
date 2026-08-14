@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "NEXT_PUBLIC_BASE_PATH='' next dev",
     "build": "next build",
     "build:pages": "NEXT_PUBLIC_BASE_PATH=/Mayne0213 next build && rm -rf docs && mv out docs && touch docs/.nojekyll",
     "start": "next start",

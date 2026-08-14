@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import Header from "@/components/widgets/Header";
-import Footer from "@/components/widgets/Footer";
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
@@ -41,7 +40,6 @@ export default async function LocaleLayout({
     <NextIntlClientProvider messages={messages}>
       <Header />
       {children}
-      <Footer />
     </NextIntlClientProvider>
   );
 }

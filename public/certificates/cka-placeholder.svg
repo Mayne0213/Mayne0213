@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1754" viewBox="0 0 1240 1754">
-  <rect width="1240" height="1754" fill="#fbfbfa"/>
-  <rect x="48" y="48" width="1144" height="1658" fill="none" stroke="#deded8" stroke-width="2"/>
-  <text x="96" y="132" fill="#11110f" font-family="Arial, sans-serif" font-size="24" letter-spacing="3">CREDENTIAL / PLACEHOLDER</text>
-  <text x="96" y="824" fill="#11110f" font-family="Georgia, serif" font-size="58">Certified Kubernetes Administrator</text>
-  <text x="96" y="876" fill="#656560" font-family="Arial, sans-serif" font-size="24">Replace this file with a redacted credential image.</text>
-</svg>

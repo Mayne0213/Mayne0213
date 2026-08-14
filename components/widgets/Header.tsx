@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useLocale } from 'next-intl';
+import { LanguageToggle } from '@/components/ui/language-toggle';
 
 const menuItems = [
   { label: 'Work', path: '' },
@@ -23,9 +24,8 @@ export default function Header() {
             {item.label}
           </Link>
         ))}
-        <Link href={`/${locale}/contact/`} className="transition-colors hover:text-black">
-          Contact
-        </Link>
+        <span className="h-4 w-px bg-[#d9d8d4]" aria-hidden="true" />
+        <LanguageToggle />
       </nav>
     </header>
   );

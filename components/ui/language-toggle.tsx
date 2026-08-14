@@ -1,8 +1,7 @@
 'use client';
 
 import * as React from 'react';
-import { Languages } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import { ChevronDown } from 'lucide-react';
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -11,21 +10,20 @@ import {
 } from '@/components/ui/dropdown-menu';
 import { usePathname, useRouter } from '@/i18n/routing';
 import { routing } from '@/i18n/routing';
-import { useParams } from 'next/navigation';
+import { useLocale } from 'next-intl';
 
 type Locale = (typeof routing.locales)[number];
 
 const LANGUAGES: { code: Locale; name: string; flag: string }[] = [
-  { code: 'ko', name: '한국어', flag: '🇰🇷' },
-  { code: 'en', name: 'English', flag: '🇺🇸' },
-  { code: 'de', name: 'Deutsch', flag: '🇩🇪' },
+  { code: 'ko', name: '한국어', flag: 'KO' },
+  { code: 'en', name: 'English', flag: 'EN' },
+  { code: 'de', name: 'Deutsch', flag: 'DE' },
 ];
 
 export function LanguageToggle() {
   const router = useRouter();
   const pathname = usePathname();
-  const params = useParams();
-  const currentLocale = params.locale as string;
+  const currentLocale = useLocale();
 
   const handleLanguageChange = (locale: Locale) => {
     router.replace(pathname, { locale });
@@ -36,19 +34,23 @@ export function LanguageToggle() {
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
-        <Button variant="ghost" size="icon" className="ml-2">
-          <Languages className="h-[1.2rem] w-[1.2rem]" />
-          <span className="sr-only">Toggle language</span>
-        </Button>
+        <button
+          type="button"
+          aria-label="언어 선택"
+          className="inline-flex items-center gap-0.5 text-[12px] leading-7 tracking-[0.06em] text-[#666560] transition-colors hover:text-black smalltablet:text-[14px]"
+        >
+          {currentLanguage.flag}
+          <ChevronDown className="h-3 w-3 stroke-[1.5]" aria-hidden="true" />
+        </button>
       </DropdownMenuTrigger>
-      <DropdownMenuContent align="end">
+      <DropdownMenuContent align="end" className="min-w-28">
         {LANGUAGES.map((language) => (
           <DropdownMenuItem
             key={language.code}
             onClick={() => handleLanguageChange(language.code)}
             className="cursor-pointer"
           >
-            <span className="mr-2">{language.flag}</span>
+            <span className="mr-2 text-[11px] tracking-[0.06em] text-[#6b6b65]">{language.flag}</span>
             {language.name}
             {currentLanguage.code === language.code && (
               <span className="ml-2">✓</span>
